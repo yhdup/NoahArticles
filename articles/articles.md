@@ -11,5 +11,10 @@
 
   6.[axios封装](https://laravel-news.com/building-flexible-axios-clients?tdsourcetag=s_pcqq_aiomsg)  
 
-  7.[前端大厂面试题](https://juejin.im/post/5d23e750f265da1b855c7bbe)  
+  7.[前端大厂面试题](https://juejin.im/post/5d23e750f265da1b855c7bbe)   
+
+  # 其他前端知识
+  1.[js数组方法总结](https://www.cnblogs.com/obel/p/7016414.html)  
+
+  2.[https概念](https://blog.csdn.net/winwill2012/article/details/71774469)
   
